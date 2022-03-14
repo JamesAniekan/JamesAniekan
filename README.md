@@ -1,4 +1,5 @@
-Hello. My name is James Aniekan. I'm a driven and highly motivated self-taught Anroid developer with comprehensive knowledge of the latest android development programming language, development tools, architecture and best practices.
+Hello. My name is James Aniekan. I'm a driven and highly motivated self-taught Android developer with comprehensive knowledge of the latest android development programming language, development tools, architecture and best practices.
+
 The technologies and libraries I use include:
 Kotlin, Android Jetpack libraries,  MVVM architecture, Live data, Data binding, Room, Retrofit, Gradle, Navigation, Dagger/Hilt, JUnit, SQLite.
 
